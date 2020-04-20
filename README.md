@@ -5,7 +5,7 @@ however was happier to see the saving feature work perfectly.
 
 
 <h3>Live Page Link</h3>
-<a href="">Live Website</a>
+<a href="https://sal183.github.io/work-day-scheduler/">Live Website</a>
 
 <h3> GitHub repository</h3>
 <a href="https://github.com/Sal183/work-day-scheduler">GitHub</a>
