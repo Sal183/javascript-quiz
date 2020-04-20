@@ -11,4 +11,4 @@ however was happier to see the saving feature work perfectly.
 <a href="https://github.com/Sal183/work-day-scheduler">GitHub</a>
 
 <h3> Screencap </h3>
-[Scheduler](https://raw.githubusercontent.com/Sal183/work-day-scheduler/master/Capture.JPG)
+<img src="https://raw.githubusercontent.com/Sal183/work-day-scheduler/master/Capture.JPG" alt="Scheduler">
